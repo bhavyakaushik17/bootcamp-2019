@@ -267,3 +267,4 @@ plot(gapminder07$lifeExp ~ gapminder07$gdpPercap,
      main="Relationship between life expectancy and GDP per capita in 2007", 
      ylab="Life expectancy", xlab="GDP per capita")
 abline(h=mean(gapminder07$lifeExp))
+
